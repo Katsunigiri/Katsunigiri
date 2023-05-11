@@ -30,4 +30,22 @@
 
 - :zap: In my free time, I create games and solve problems on leetcode.
 
-- :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/Katsunigiri-blue?logo=telegram&logoColor=white&style=for-the-badge)](https://t.me/Katsunigiri)
+- :mailbox_with_mail:How to reach me: [![Telegram Badge](https://img.shields.io/badge/Katsunigiri-blue?logo=telegram&logoColor=white&style=for-the-badge)](https://t.me/Katsunigiri)
+
+---
+
+### :hammer_and_pick: Languages and Tools :
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="Csharp" alt="Csharp" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="Unity" alt="Unity" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/unrealengine/unrealengine-original-wordmark.svg" title="UnrealEngine" alt="UnrealEngine" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg" title="Debian" alt="Debian" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" title="dotnetcore" alt="dotnetcore" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+</div>
+
+---
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Katsunigiri&theme=dark)](https://git.io/streak-stats)
