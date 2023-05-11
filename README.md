@@ -1,3 +1,16 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/Oj25fisQ3zhukVWY96/giphy.gif" width="120"/>
+  <div id="badges">
+  <a href="https://t.me/Katsunigiri">
+    <img src="https://img.shields.io/badge/telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
+  </a>
+  <a href="https://twitter.com/Katsunigiri">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
+  <img src="https://komarev.com/ghpvc/?username=Katsunigiri&style=flat-square&color=blue" alt=""/>
+</div>
+
 ### Hi there 👋
 
 <!--
