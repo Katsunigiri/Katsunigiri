@@ -26,7 +26,7 @@
  
  :telescope: At the moment I am not working, but studying to become an information security specialist.
 
-- :seedling: Learning backend development.
+- :seedling: Learning game development.
 
 - :zap: In my free time, I create games and solve problems on leetcode.
 
