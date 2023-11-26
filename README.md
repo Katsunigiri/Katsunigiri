@@ -22,7 +22,7 @@
  ---
  
  ### :man_technologist: About Me :
- I am a C# Developer from Russia <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="30">.
+ I am a C#/Go Developer from Russia <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="30">.
  
  :telescope: At the moment I am not working, but studying to become an information security specialist.
 
